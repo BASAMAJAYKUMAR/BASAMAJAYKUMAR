@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Developers**
 
-- 👨‍💻 All of my projects are available at [https://ajaywebsite.netlify.app/about](https://github.com/BASAMAJAYKUMAR)
+- 👨‍💻 All of my projects are available at [https://github.com/BASAMAJAYKUMAR](https://github.com/BASAMAJAYKUMAR)
 
 - 💬 Ask me about **Web Developer**
 
