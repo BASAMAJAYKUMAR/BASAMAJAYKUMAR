@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Node.js and My SQl**
 
-- 👯 I’m looking to collaborate on **Web Developers**
+- 👯 I’m looking to collaborate on **Frontend Web Developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BASAMAJAYKUMAR](https://github.com/BASAMAJAYKUMAR)
 
-- 💬 Ask me about **Web Developer**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **basamajaykumar23@gmail.com**
 
